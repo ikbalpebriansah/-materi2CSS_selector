@@ -1,0 +1,24 @@
+body {
+    font-family: arial;
+}
+h1,h2 {
+    color: blue;
+}
+ul li a {
+    color: orange;
+}
+ol li a {
+    color: green;
+}
+#p1 {
+    color: aqua;
+}
+.p2 {
+    color: pink;
+}
+.cetak {
+    font-weight: bold;
+}
+p.cetak {
+    font-size: 30px;
+}
